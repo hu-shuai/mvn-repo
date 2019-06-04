@@ -3,15 +3,27 @@
   <groupId>com.hs</groupId>
   <artifactId>fastService</artifactId>
   <versioning>
+<<<<<<< HEAD
     <release>1.0.21</release>
+=======
+    <release>1.0.20</release>
+>>>>>>> 314b4f9be601e7eea32f3828a4926159cda5ad1a
     <versions>
       <version>1.0.14</version>
       <version>1.0.15</version>
       <version>1.0.16</version>
       <version>1.0.17</version>
+<<<<<<< HEAD
       <version>1.0.20</version>
       <version>1.0.21</version>
     </versions>
     <lastUpdated>20190604081443</lastUpdated>
+=======
+      <version>1.0.18</version>
+      <version>1.0.19</version>
+      <version>1.0.20</version>
+    </versions>
+    <lastUpdated>20190601054236</lastUpdated>
+>>>>>>> 314b4f9be601e7eea32f3828a4926159cda5ad1a
   </versioning>
 </metadata>
